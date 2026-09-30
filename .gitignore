@@ -1,0 +1,17 @@
+cat >> .gitignore <<'EOF'
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Trained model files
+*.keras
+*.h5
+
+# Local credentials
+.env
+.dvc/config.local
+EOF
+/custom_cnn_dataset

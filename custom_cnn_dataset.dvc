@@ -1,0 +1,6 @@
+outs:
+- md5: 36a2d6c30472f9a680bf53dc2e7ac4cd.dir
+  size: 29183683
+  nfiles: 302
+  hash: md5
+  path: custom_cnn_dataset
